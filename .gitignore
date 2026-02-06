@@ -1,0 +1,15 @@
+.DS_Store
+.env
+__pycache__
+venv/
+.pytest_cache
+.terraform
+*.terraform.*
+*.tfstate
+*.tfvars
+*.backup
+.venv
+*.pem
+*.pemkey
+raw_data/
+clean_data/
